@@ -1,3 +1,3 @@
 # hello-world
 GitHub Hello World guide
-Into from simpleWit
+Into from simpleWit. some info
